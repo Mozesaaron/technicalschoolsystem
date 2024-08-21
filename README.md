@@ -1,0 +1,1 @@
+# technicalschoolsystem
